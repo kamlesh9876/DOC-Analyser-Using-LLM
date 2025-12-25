@@ -117,8 +117,7 @@ Open browser at http://localhost:8501
 doc-analysier/
 ├── app.py              # Main Streamlit app
 ├── README.md           # Documentation
-├── requirements.txt    # Python dependencies
-└── utils/              # Optional helpers (text extraction, AI calls)
+└── .git/               # Git repository files
 ```
 
 ---
